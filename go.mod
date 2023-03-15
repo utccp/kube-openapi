@@ -21,6 +21,7 @@ require (
 	github.com/onsi/gomega v0.0.0-20170829124025-dcabb60a477c
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.5.1
+	github.com/thedevsaddam/gojsonq v2.3.0+incompatible
 	golang.org/x/text v0.3.5 // indirect
 	golang.org/x/tools v0.1.5 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
